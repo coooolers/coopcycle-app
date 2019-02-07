@@ -4656,7 +4656,7 @@ react-native-maps@0.23.0:
 
 "react-native-matomo@https://github.com/coopcycle/react-native-matomo#latest":
   version "0.1.0"
-  resolved "https://github.com/coopcycle/react-native-matomo#cfee6d92434bbcb05fc711534be9256dc2269acc"
+  resolved "https://github.com/coopcycle/react-native-matomo#965940d3626afc2fa17e9c5814a71f1410b1fde8"
 
 react-native-mauron85-background-geolocation@0.5.0:
   version "0.5.0"
